@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4873c20d-1255-46ca-b4cc-408001555826" name="Default" comment="" />
+    <list default="true" id="4873c20d-1255-46ca-b4cc-408001555826" name="Default" comment="Add decision tree">
+      <change afterPath="$PROJECT_DIR$/bayes/bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/ham/9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/12.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/13.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/16.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/17.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/18.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/19.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/21.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/22.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/24.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bayes/email/spam/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/fapqin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/fapqin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lenses.txt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,8 +67,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/merchin_learning_in_action$spike.coverage" NAME="spike Coverage Results" MODIFIED="1526477120326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/merchin_learning_in_action$spike.coverage" NAME="spike Coverage Results" MODIFIED="1526550504971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/merchin_learning_in_action$decision_tree.coverage" NAME="decision_tree Coverage Results" MODIFIED="1526522334609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/merchin_learning_in_action$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1526608083723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bayes" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -28,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="decision_tree.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="decision_tree.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/decision_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="433">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -44,7 +101,7 @@
         <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/__builtin__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="223">
-              <caret line="377" column="4" selection-start-line="377" selection-start-column="4" selection-end-line="377" selection-end-column="4" />
+              <caret line="3359" column="26" selection-start-line="3359" selection-start-column="21" selection-end-line="3359" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -52,17 +109,43 @@
       <file leaf-file-name="common_utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="198">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="itertools.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/itertools.py">
+      <file leaf-file-name="bayes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bayes/bayes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="422" column="23" selection-start-line="422" selection-start-column="20" selection-end-line="422" selection-end-column="23" />
+            <state relative-caret-position="233">
+              <caret line="85" column="35" lean-forward="true" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bayes/email/ham/1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="umath.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/numpy/core/umath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-55">
+              <caret line="2123" column="4" selection-start-line="2123" selection-start-column="4" selection-end-line="2123" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="numeric.py" pinned="false" current-in-tab="false">
+        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/core/numeric.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -70,7 +153,7 @@
       <file leaf-file-name="multiarray.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/numpy/core/multiarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
+            <state relative-caret-position="86064">
               <caret line="3912" column="8" selection-start-line="3912" selection-start-column="8" selection-end-line="3912" selection-end-column="8" />
             </state>
           </provider>
@@ -79,32 +162,9 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons/numpy/core/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="13684">
               <caret line="622" column="20" selection-start-line="622" selection-start-column="20" selection-end-line="622" selection-end-column="20" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1_52.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digits/trainingDigits/1_52.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-193" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2_89.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digits/trainingDigits/2_89.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0_4.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/digits/trainingDigits/0_4.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-311" />
           </provider>
         </entry>
       </file>
@@ -127,15 +187,23 @@
       <find>lam</find>
       <find>reduce</find>
       <find>append</find>
+      <find>textParse</find>
     </findStrings>
+    <replaceStrings>
+      <replace>text_parse</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/spike.py" />
-        <option value="$PROJECT_DIR$/common_utils.py" />
         <option value="$PROJECT_DIR$/kNN.py" />
         <option value="$PROJECT_DIR$/decision_tree.py" />
+        <option value="$PROJECT_DIR$/common_utils.py" />
+        <option value="$PROJECT_DIR$/bayes/bayes.py" />
       </list>
     </option>
   </component>
@@ -181,7 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -195,6 +262,11 @@
               <item name="merchin_learning_in_action" type="b2602c69:ProjectViewProjectNode" />
               <item name="merchin_learning_in_action" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merchin_learning_in_action" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merchin_learning_in_action" type="462c0819:PsiDirectoryNode" />
+              <item name="bayes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="merchin_learning_in_action" type="b2602c69:ProjectViewProjectNode" />
@@ -214,6 +286,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,6 +301,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bayes" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -243,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decision_tree">
+  <component name="RunManager" selected="Python.bayes">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -262,6 +336,25 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="bayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machine_learning_in_action_spike" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bayes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bayes/bayes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="machine_learning_in_action_spike" />
@@ -326,11 +419,13 @@
     <list>
       <item itemvalue="Python.spike" />
       <item itemvalue="Python.decision_tree" />
+      <item itemvalue="Python.bayes" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.decision_tree" />
+        <item itemvalue="Python.bayes" />
         <item itemvalue="Python.spike" />
+        <item itemvalue="Python.decision_tree" />
       </list>
     </recent_temporary>
   </component>
@@ -355,11 +450,20 @@
       <updated>1526370197940</updated>
       <workItem from="1526370199324" duration="1857000" />
       <workItem from="1526372253296" duration="34705000" />
+      <workItem from="1526549810568" duration="12099000" />
     </task>
+    <task id="LOCAL-00001" summary="Add decision tree">
+      <created>1526549918397</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526549918397</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36562000" />
+    <option name="totallyTimeSpent" value="48661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="24" width="1400" height="837" extended-state="0" />
@@ -373,8 +477,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44864866" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35540542" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.37567568" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="3" />
@@ -382,12 +486,12 @@
       <window_info content_ui="combo" id="Project" order="0" weight="0.2496318" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.10751104" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.10751104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3108108" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28648648" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,61 +506,140 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add decision tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add decision tree" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bayes/bayes.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>sortedDistanceIndicies[index]</expression-string>
+        <expression-string>p1_num / p1_denom</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(sortedDistanceIndicies)</expression-string>
+        <expression-string>print(p1_num)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(distances)</expression-string>
+        <expression-string>p1_num</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(sqDistances)</expression-string>
+        <expression-string>sum(train_matrix[i])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(sqDiffMat)</expression-string>
+        <expression-string>train_matrix[i]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(diffMat)</expression-string>
+        <expression-string>print(p0_num)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(tile(inX, (dataSetSize, 1)))</expression-string>
+        <expression-string>p0_num</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(dataSet)</expression-string>
+        <expression-string>train_matrix[2]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dataSet</expression-string>
+        <expression-string>train_matrix[1]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2838">
+          <caret line="129" column="32" selection-start-line="129" selection-start-column="26" selection-end-line="129" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8294">
+          <caret line="377" column="4" selection-start-line="377" selection-start-column="4" selection-end-line="377" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9284">
+          <caret line="422" column="23" selection-start-line="422" selection-start-column="20" selection-end-line="422" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86064">
+          <caret line="3912" column="8" selection-start-line="3912" selection-start-column="8" selection-end-line="3912" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons/numpy/core/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13684">
+          <caret line="622" column="20" selection-start-line="622" selection-start-column="20" selection-end-line="622" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digits/trainingDigits/1_52.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digits/trainingDigits/2_89.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/digits/trainingDigits/0_4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -571,9 +754,6 @@
         <state relative-caret-position="-117" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/digits/trainingDigits/0_2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/digits/trainingDigits/0_3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13">
@@ -582,54 +762,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/digits/trainingDigits/0_4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/digits/trainingDigits/1_52.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/digits/trainingDigits/2_89.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="22" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/itertools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="9284">
           <caret line="422" column="23" selection-start-line="422" selection-start-column="20" selection-end-line="422" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/numpy/core/multiarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="86064">
           <caret line="3912" column="8" selection-start-line="3912" selection-start-column="8" selection-end-line="3912" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons/numpy/core/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="13684">
           <caret line="622" column="20" selection-start-line="622" selection-start-column="20" selection-end-line="622" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/__builtin__.py">
+    <entry file="file://$PROJECT_DIR$/decision_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="377" column="4" selection-start-line="377" selection-start-column="4" selection-end-line="377" selection-end-column="4" />
+        <state relative-caret-position="433">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -643,12 +815,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/decision_tree.py">
+    <entry file="file://$PROJECT_DIR$/common_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="198">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="135" column="4" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/numpy/core/umath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="2123" column="4" selection-start-line="2123" selection-start-column="4" selection-end-line="2123" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.1/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="3359" column="26" selection-start-line="3359" selection-start-column="21" selection-end-line="3359" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bayes/email/ham/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bayes/bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="85" column="35" lean-forward="true" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
           <folding>
-            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
